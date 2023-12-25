@@ -1,0 +1,8 @@
+server.port: 8082
+
+spring.datasource.url: jdbc:postgresql://john.db.elephantsql.com:5432/cetoywct
+spring.datasource.username: cetoywct
+spring.datasource.password: dh7u4mFMqToSlwA8UnKVKVtue8pcDMti
+
+upload.link: "https://image/upload"
+
